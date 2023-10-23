@@ -13,9 +13,7 @@ Este es un repo que contiene varios ejemplos de aws
 
 [Documentation de tutorial oficial de aws en español](https://docs.aws.amazon.com/es_es/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
 
-2. 
-
-https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-s3.html
+2. Lambda function con api gateway
 
 3. Github action con IaC
-https://github.com/aws-samples/aws-cloudformation-starter-workflow-for-github-actions
+[Ejemplo](https://github.com/mayralgr/aws-workshop-iac-example)
