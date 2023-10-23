@@ -8,6 +8,8 @@ Elegir un nombre del bucket
 p.e. mlgr-workshop
 
 
-2. Ec2/Lambda
+2. Lambda + api gateway
+Crear lambda
+Creat api gateway
 
 3. IaC cloudformation con pagina estatica
